@@ -1,0 +1,101 @@
+10
+9
+Pesaro Bologna 158 90
+Pesaro Ancona 60 55
+Pesaro Torino 734 532
+Pesaro Milano 424 432
+Pesaro Napoli 400 556
+Pesaro Roma 423 205
+Pesaro Varese 123 477
+Pesaro Udine 400 422
+Pesaro Bari 151 888
+9
+Bologna Pesaro 158 90
+Bologna Ancona 210 125
+Bologna Torino 202 85
+Bologna Milano 202 85
+Bologna Napoli 202 85
+Bologna Roma 202 85
+Bologna Varese 732 205
+Bologna Udine 543 205
+Bologna Bari 145 312
+9
+Ancona Pesaro 505 280
+Ancona Bologna 412 210
+Ancona Torino 234 280
+Ancona Milano 505 523
+Ancona Napoli 505 432
+Ancona Roma 505 280
+Ancona Varese 432 205
+Ancona Udine 400 205
+Ancona Bari 123 415
+9
+Torino Pesaro 415 220
+Torino Bologna 505 280
+Torino Ancona 245 75
+Torino Milano 140 32
+Torino Napoli 5 75
+Torino Roma 140 75
+Torino Varese 400 205
+Torino Udine 312 532
+Torino Bari 523 432
+9
+Milano Pesaro 943 997
+Milano Bologna 733 26
+Milano Ancona 423 205
+Milano Torino 400 45
+Milano Napoli 507 422
+Milano Roma 672 205
+Milano Varese 400 205
+Milano Udine 628 276
+Milano Bari 123 432
+9
+Napoli Pesaro 123 523
+Napoli Bologna 400 205
+Napoli Ancona 535 205
+Napoli Torino 450 313
+Napoli Milano 622 205
+Napoli Roma 400 205
+Napoli Varese 400 205
+Napoli Udine 628 276
+Napoli Bari 634 432
+9
+Roma Pesaro 505 280
+Roma Bologna 505 543
+Roma Ancona 505 432
+Roma Torino 632 280
+Roma Milano 505 280
+Roma Napoli 505 532
+Roma Varese 505 280
+Roma Udine 628 276
+Roma Bari 245 423
+9
+Varese Pesaro 628 458
+Varese Bologna 628 725
+Varese Ancona 628 276
+Varese Torino 736 632
+Varese Milano 234 321
+Varese Napoli 905 276
+Varese Roma 628 276
+Varese Udine 123 276
+Varese Bari 312 432
+9
+Udine Pesaro 746 521
+Udine Bologna 234 345
+Udine Ancona 252 643
+Udine Torino 356 345
+Udine Milano 628 654
+Udine Napoli 724 765
+Udine Roma 342 276
+Udine Varese 628 762
+Udine Bari 123 314
+9
+Bari Pesaro 524 547
+Bari Bologna 234 432
+Bari Ancona 252 432
+Bari Torino 342 345
+Bari Milano 628 642
+Bari Napoli 123 124
+Bari Roma 452 276
+Bari Varese 628 643
+Bari Udine 157 462

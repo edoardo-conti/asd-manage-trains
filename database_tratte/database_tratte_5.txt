@@ -1,0 +1,26 @@
+5
+4
+Pesaro Bologna 158 90
+Pesaro Ancona 60 55
+Pesaro Torino 734 532
+Pesaro Milano 424 432
+4
+Bologna Pesaro 158 90
+Bologna Ancona 210 125
+Bologna Torino 202 85
+Bologna Milano 202 85
+4
+Ancona Pesaro 505 280
+Ancona Bologna 412 210
+Ancona Torino 234 280
+Ancona Milano 505 523
+4
+Torino Pesaro 415 220
+Torino Bologna 505 280
+Torino Ancona 245 75
+Torino Milano 140 32
+4
+Milano Pesaro 943 997
+Milano Bologna 733 26
+Milano Ancona 423 205
+Milano Torino 400 45
